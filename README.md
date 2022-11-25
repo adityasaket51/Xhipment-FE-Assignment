@@ -17,7 +17,7 @@ link :- https://cheerful-torrone-b1a632.netlify.app/
 
 ## Output
 
-:- When app load
+:- text in red When app load
 
 ![Screenshot (286)](https://user-images.githubusercontent.com/109082787/203969462-923e7007-a5c8-4899-bfcb-840f9c9f6d2e.png)
 
@@ -38,6 +38,16 @@ link :- https://cheerful-torrone-b1a632.netlify.app/
 ![Screenshot (292)](https://user-images.githubusercontent.com/109082787/203973236-42507f63-17e5-491f-bbdf-5f83f8abba0d.png)
 
 
+### Important Notes
 
+:- For Add new Post , Edit  and delete a function will execute to fetch api that api will not change in database.
+:- alert method is execute at the end of function to confirm that your request id succeed.
 
+# some Screenshot of important Notes
+
+![Screenshot (293)](https://user-images.githubusercontent.com/109082787/203975207-91478397-c76d-42d3-b59f-7904c6559399.png)
+
+![Screenshot (294)](https://user-images.githubusercontent.com/109082787/203975273-53c2ab97-84c9-4568-becc-6e63603d416f.png)
+
+![Screenshot (295)](https://user-images.githubusercontent.com/109082787/203975338-f51b5262-afd4-4e6e-970c-e48c4572ff3e.png)
 
