@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar-container{
+  background-color: rgb(68, 78, 140);
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.navbar-container li{
+  display: inline-block;
+  color: #fff;
+  margin-left: 1rem;
+  padding-left: 3%;
+  padding-top: 10px;
+  cursor: pointer;
+}
+.home{
+  margin-right: 60vw;
+}
+
+
+/* --------------------------------------------------- */
+
+.posts{
+  display: flex;
+  flex-wrap: wrap;
+}
+.post-container{
+  width: 250px;
+  height: auto;
+  background-color: rgb(232, 119, 168);
+  color: #fff;
+  margin-left: 45px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 1%;
+  border-radius: 5%;
+}
+
+h1{
+  font-size: x-large;
+  padding-bottom: 10px;
+  text-transform: capitalize;
+  text-decoration: wavy;
+  color: black;
+  text-align: center;
+}
+p{
+  font-size: medium;
+  color: rgb(218, 226, 218);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: italic;
+}
+/* ---------------- Log In ----------------- */
+
+.login-container{
+  margin-left: 30%;
+  margin-top: 10%;
+  display: grid;
+  width: 40vw;
+  
+}
+.input{
+  padding: 2%;
+  margin: 2%;
+  border: none;
+  background-color: rgb(232, 221, 218);
+  /* border-radius: 5%; */
+  border: 1px solid black;
+  color: blue;
+}
+.button{
+  padding: 1%;
+  margin: 2%;
+  width: 20vw;
+}
+/* ---------------------- Sign Up ---------------------- */
+
+.signup-container{
+  margin-left: 30%;
+  margin-top: 10%;
+  display: grid;
+  width: 40vw;
+}
+button{
+  background-color: rgb(255, 226, 3);
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+.post-button{
+  margin-top: 5%;
+  padding: 2%;
+  margin-right: 10%;
+  border-radius: 5%;
+  border: 1px solid rgb(129, 121, 121);
+  background-color: rgb(17, 18, 21);
+  color: #fff;
+}
+.new-posts{
+  background-color:rgb(189, 164, 169);
+}
+.create-new-posts{
+  margin-top: 25%;
+  margin-left: 5%;
+  padding: 5%;
+  margin-bottom: 5%;
+  color: #fff;
+  background-color: darkgreen;
+  font-size: x-large;
+}
