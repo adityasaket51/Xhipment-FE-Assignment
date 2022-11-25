@@ -1,6 +1,6 @@
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+React app where you can read post without log In
 
 ### `npm start`
 
